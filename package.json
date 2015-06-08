@@ -1,0 +1,18 @@
+{
+  "name": "global-override",
+  "version": "0.0.1",
+  "description": "Override a global object",
+  "main": "override.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "object",
+    "override"
+  ],
+  "author": "Matthew Phillips",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
