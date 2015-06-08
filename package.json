@@ -14,5 +14,9 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewp/global-override.git"
   }
 }
