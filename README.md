@@ -13,6 +13,8 @@ npm install global-override --save
 Use this module to override a global value.  For example you could do:
 
 ```js
+var override = require("global-override");
+
 override("something.deep", function(oldFn){
   return function(){
     return "bar";
